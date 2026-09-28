@@ -8,7 +8,7 @@ export const profile = {
   linkedin: "https://linkedin.com/in/rohit-sharma-3570b1213",
   resume: "/Resume/Rohit_Sharma_Product_Company_Resume.pdf",
   intro: "MERN Stack Developer with 2+ years of experience building scalable web applications.",
-  address: "DD ki Thadi, Plot No 69-70, Prem Nagar Rd, Prem Nagar, Malviya Nagar, Nandpuri Colony, Jagatpura, Jaipur, Rajasthan 302017",
+  address: "DD ki Thadi, Plot No. 69–70, Prem Nagar Road, Prem Nagar, Malviya Nagar, Nandpuri Colony, Jagatpura, Jaipur, Rajasthan – 302017",
   city: "Jaipur, Rajasthan",
   about: [
     "I’m a MERN Stack Developer with 2+ years of professional experience building scalable, performance-driven web applications. I work across the full stack, with hands-on experience in React.js, JavaScript, Node.js, Express.js, MongoDB, MySQL, RESTful APIs, and modern frontend development.",
