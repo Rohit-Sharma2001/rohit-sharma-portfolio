@@ -127,7 +127,7 @@ export default function App() {
           <p className="body">
             I’m open to full-stack roles and interesting projects. Reach out
             through any of the channels below and I’ll get back to you soon.
-          </p>
+          </p> 
 
           <div className="contact-grid">
             <ul className="contact-info">
