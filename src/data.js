@@ -7,7 +7,7 @@ export const profile = {
   github: "https://github.com/Rohit-Sharma2001",
   linkedin: "https://linkedin.com/in/rohit-sharma-3570b1213",
   resume: "/Resume/Rohit_Sharma_Product_Company_Resume.pdf",
-  intro: "MERN Stack Developer with 2+ years of experience building scalable web applications.",
+  intro: "MERN Stack Developer with 2.5 years of experience building scalable web applications.",
   address: "DD ki Thadi, Plot No. 69–70, Prem Nagar Road, Prem Nagar, Malviya Nagar, Nandpuri Colony, Jagatpura, Jaipur, Rajasthan – 302017",
   city: "Jaipur, Rajasthan",
   about: [
