@@ -11,12 +11,12 @@ export const profile = {
   address: "DD ki Thadi, Plot No. 69–70, Prem Nagar Road, Prem Nagar, Malviya Nagar, Nandpuri Colony, Jagatpura, Jaipur, Rajasthan – 302017",
   city: "Jaipur, Rajasthan",
   about: [
-    "I’m a MERN Stack Developer with 2+ years of professional experience building scalable, performance-driven web applications. I work across the full stack, with hands-on experience in React.js, JavaScript, Node.js, Express.js, MongoDB, MySQL, RESTful APIs, and modern frontend development.",
+    "I’m a MERN Stack Developer with 2.5 years of professional experience building scalable, performance-driven web applications. I work across the full stack, with hands-on experience in React.js, JavaScript, Node.js, Express.js, MongoDB, MySQL, RESTful APIs, and modern frontend development.",
 
     "I’ve worked on real-world products including admin dashboards, role-based access control systems, API integrations, Excel export functionality, attendance management, route planning, access management, and visit management modules. My project experience includes MittsureOne (Sales & Field Operations Platform), survey platforms, e-commerce applications, and wellness applications.",
   ],
   facts: [
-    { label: "Experience", value: "2+ years" },
+    { label: "Experience", value: "2.5 years" },
     { label: "Specialization", value: "Full-Stack (MERN)" },
     { label: "Availability", value: "Remote / Relocation" },
   ],
